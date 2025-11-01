@@ -2,6 +2,10 @@
 
 Este proyecto implementa un sistema de alarma multizona completo, programado en Lenguaje C para un microcontrolador ATmega328P. El sistema gestiona zonas temporizadas, zonas instantáneas, retardos de entrada/salida y una sirena, utilizando una interfaz de displays de 7 segmentos multiplexados.
 
+<p align="center">
+  <img width="100%" height="350" src="https://res.cloudinary.com/dq9faptjc/image/upload/v1761999845/Screenshot_2025-10-30_113007_nv20bm.png">
+</p>
+
 ## Análisis de Requerimientos
 
 El sistema fue diseñado para cumplir con las siguientes especificaciones:
